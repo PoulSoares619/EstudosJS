@@ -64,5 +64,4 @@ h1 {
 .tecla.active:focus,
 .tecla:active:focus {
   box-shadow: 3px 3px 0 #09012c inset, 1px 1px 10px var(--luz);
-  transition: 1.5em;
 }
